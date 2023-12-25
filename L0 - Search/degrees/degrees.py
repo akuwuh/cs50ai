@@ -133,7 +133,6 @@ def shortest_path(source, target):
                     dist[neighbour] = cost
                     prev[neighbour] = (movie_neighbour, node)
                     q.put((cost, neighbour))
-
     return None
 
 

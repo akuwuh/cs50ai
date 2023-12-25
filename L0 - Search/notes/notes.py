@@ -5,7 +5,7 @@
 /* Search */
 /* ------ */
 
-Search Problems:
+Search Problems: 
 
     Agent given intial + goal state
     Returns solution of how get from one to another
